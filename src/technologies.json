@@ -6547,6 +6547,18 @@
       "scripts": "/graffiti\\.js",
       "website": "http://graffiticms.codeplex.com"
     },
+    "Gotham": {
+      "description": "An open source Static Site Generator powerful enough for developers yet enabling for business use-cases.",
+      "cats": [
+        57
+      ],
+      "icon": "Gotham.svg",
+      "meta": {
+        "generator": "Gotham ([\\d.]+)?\\;version:\\1"
+      },
+      "website": "https://www.GothamHQ",
+	  "oss": true
+    },
     "GrandNode": {
       "cats": [
         6
